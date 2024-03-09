@@ -1,0 +1,11 @@
+{
+    "routes": [
+      {
+        "route": "/*",
+        "serve": "/index.html",
+        "appSettings": {
+          "node": "18"
+        }
+      }
+    ]
+  }
